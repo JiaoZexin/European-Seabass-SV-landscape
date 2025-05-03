@@ -16,13 +16,13 @@ This project focuses on the detection, characterization, and analysis of structu
 
 ```
 .
-├── Annotation.sh			 # SNPeff annotation based on SV vcf file
+├── Annotation.sh           # SNPeff annotation based on SV vcf file
 ├── Chi-square.py           # Script for chi-square statistical testing for Interpro domain
 ├── Enrichment.sh           # Shell script to analyze functional enrichment of SVs
 ├── Gene_expression.sh      # Script to integrate or analyze gene expression data
 ├── SV_detection.sh         # Main pipeline for SV calling from WGS data
 ├── SV_filter.sh            # Post-processing script to filter high-confidence SVs
-├── TE_GERP.sh				 # bedtools for checking overlap SVs with TE/GERP
+└── TE_GERP.sh              # bedtools for checking overlap SVs with TE/GERP
 └── README.md               # Project overview and usage instructions
 ```
 
